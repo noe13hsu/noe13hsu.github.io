@@ -1,7 +1,7 @@
 # T1A2---Portfolio
 
 ### URL to my published portfolio website:
-https://profolion.azurewebsites.net
+https://noe13hsu.github.io/index.html
 
 ### Link to my GitHub repo:
 https://github.com/noe13hsu/T1A2---Portfolio
