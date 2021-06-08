@@ -1,0 +1,313 @@
+commit 4cb4ebca3157f50316eeda3f5823c9c6b7bedaee
+Author: Noe Hsu <noe13hsu@gmail.com>
+Date:   Sat Mar 13 22:18:04 2021 +1000
+
+    corrected SRI in all 5 html
+
+commit 0a2d3fa3f200df7c9439eda3309a63fbb8e3a98e
+Author: Noe Hsu <noe13hsu@gmail.com>
+Date:   Sat Mar 13 22:09:16 2021 +1000
+
+    added SRI for style.css and grid.css in all 5 html
+
+commit 4fc5223ed0e5ee7e49f146da23611c5c42b69f18
+Author: Noe Hsu <noe13hsu@gmail.com>
+Date:   Sat Mar 13 21:37:20 2021 +1000
+
+    updated README with link to sitemap
+
+commit 109979a2e637273b576e061ba94f0a0790bbf319
+Author: Noe Hsu <noe13hsu@gmail.com>
+Date:   Sat Mar 13 21:24:52 2021 +1000
+
+    added sitemap to README.md
+
+commit 5a6349eac6c9938fc5e150650f66756e0fa0d659
+Author: Noe Hsu <noe13hsu@gmail.com>
+Date:   Sat Mar 13 21:15:23 2021 +1000
+
+    updated README.md
+
+commit 6c412a93f27011c6dc071f82b33dd4f7f24694fd
+Author: Noe Hsu <noe13hsu@gmail.com>
+Date:   Sat Mar 13 20:58:53 2021 +1000
+
+    run through html checker
+
+commit e1d9f7fb20ef3564a4dd49358906c3ad2072668a
+Author: Noe Hsu <noe13hsu@gmail.com>
+Date:   Sat Mar 13 17:48:26 2021 +1000
+
+    added no text decoration for a and removed unnecessary text decoration
+
+commit df93ba9c2290dcc14c9f6f58a1db7ca1c9e77d6f
+Author: Noe Hsu <noe13hsu@gmail.com>
+Date:   Sat Mar 13 17:23:42 2021 +1000
+
+    changed blog titles and added a link to download cv in about.html
+
+commit 22924a9d1e2ec63b2cd779a03633d62fff5b7684
+Merge: b09e844 a4f0b06
+Author: Noe Hsu <noe13hsu@gmail.com>
+Date:   Sat Mar 13 16:20:00 2021 +1000
+
+    deleted settings.json
+
+commit b09e844fcf88b2d8072e4c1bec8d146c05b66a4b
+Author: Noe Hsu <noe13hsu@gmail.com>
+Date:   Sat Mar 13 16:12:40 2021 +1000
+
+    changed folder structure for deploy
+
+commit a4f0b0652ab36c2db5acde7212a1ac8f2cf59f23
+Author: Noe <74361913+noe13hsu@users.noreply.github.com>
+Date:   Sat Mar 13 13:51:56 2021 +1000
+
+    Create azure-static-web-apps-calm-rock-089e99900.yml
+
+commit ea8cfd7f6d2369657986c10acc0e9a6086caeec3
+Author: Noe <74361913+noe13hsu@users.noreply.github.com>
+Date:   Sat Mar 13 13:51:45 2021 +1000
+
+    Update azure-static-web-apps-calm-rock-089e99900.yml
+
+commit 4476be9bee6f43129a543e92951884143b910619
+Author: Noe <74361913+noe13hsu@users.noreply.github.com>
+Date:   Sat Mar 13 13:48:52 2021 +1000
+
+    Update azure-static-web-apps-calm-rock-089e99900.yml
+
+commit 724247330871e99b78811aaa9587704702f03c80
+Author: Noe <74361913+noe13hsu@users.noreply.github.com>
+Date:   Sat Mar 13 13:39:57 2021 +1000
+
+    Update azure-static-web-apps-calm-rock-089e99900.yml
+
+commit a1b3bd20b22ce764c14840e43d7ddc79fccf0dae
+Author: Azure Static Web Apps <opensource@microsoft.com>
+Date:   Sat Mar 13 13:37:33 2021 +1000
+
+    ci: add Azure Static Web Apps workflow file
+    on-behalf-of: @Azure opensource@microsoft.com
+
+commit 77eb7bfe4b0384f0a6050dfc734b65d58120851a
+Author: Noe <74361913+noe13hsu@users.noreply.github.com>
+Date:   Sat Mar 13 09:40:56 2021 +1000
+
+    Update main_portfolion.yml
+
+commit f98ac9d465c57e13b4fc357f2d72347472baad2f
+Author: Noe <74361913+noe13hsu@users.noreply.github.com>
+Date:   Sat Mar 13 09:33:01 2021 +1000
+
+    Add or update the App Service deployment workflow configuration from Azure Portal.
+
+commit cb78a54f84fafbbfc8924477d4c9a4814bbff6d5
+Author: Noe <74361913+noe13hsu@users.noreply.github.com>
+Date:   Sat Mar 13 09:32:49 2021 +1000
+
+    Delete jekyll.yml
+
+commit 00ab5628fd11c0ce82120434582296b876bed7e7
+Author: Noe <74361913+noe13hsu@users.noreply.github.com>
+Date:   Sat Mar 13 08:57:24 2021 +1000
+
+    Create jekyll.yml
+
+commit c21e0c075a6613b4af056932e48d7abaf88dd780
+Author: Noe Hsu <noe13hsu@gmail.com>
+Date:   Fri Mar 12 22:21:29 2021 +1000
+
+    added SRI bash string for animate.css lib
+
+commit 58a0529b60684d514d1fad5108ab8d8cb7f4e2b1
+Author: Noe Hsu <noe13hsu@gmail.com>
+Date:   Fri Mar 12 16:49:00 2021 +1000
+
+    removed unnecessary images
+
+commit 1bfa44257b61b2782eb0deb619e959f8812218b0
+Author: Noe Hsu <noe13hsu@gmail.com>
+Date:   Fri Mar 12 15:59:49 2021 +1000
+
+    fixed a typo in index.html
+
+commit 8bf5ce153696e30cd7740a72d090445490e4cf96
+Author: Noe Hsu <noe13hsu@gmail.com>
+Date:   Fri Mar 12 15:58:11 2021 +1000
+
+    changed tab icon size
+
+commit 7f1dc5fd7a4d79fa34e828f2cd37899fdd6209b3
+Author: Noe Hsu <noe13hsu@gmail.com>
+Date:   Fri Mar 12 15:53:15 2021 +1000
+
+    added icon to window tab
+
+commit 874c8cfa75babd96502a358d9d9e5cbc4a7d484d
+Author: Noe Hsu <noe13hsu@gmail.com>
+Date:   Fri Mar 12 14:23:56 2021 +1000
+
+    added comments
+
+commit 21dd3962f1f749dd9bd603bb980b9915bb6ce04b
+Author: Noe Hsu <noe13hsu@gmail.com>
+Date:   Fri Mar 12 13:23:20 2021 +1000
+
+    fixed spacing between name fields in contact form and changed hashtag order in about
+
+commit 3bf0f851ac0bffc72845a8643b4408253625b5ef
+Author: Noe Hsu <noe13hsu@gmail.com>
+Date:   Thu Mar 11 23:42:27 2021 +1000
+
+    fixed contact form positioning issue when changing input field size, added icons to hashtags
+
+commit 505b943778df4b44d832f370a5cf49faf9bac333
+Author: Noe Hsu <noe13hsu@gmail.com>
+Date:   Thu Mar 11 18:18:21 2021 +1000
+
+    updated form name fields and updated content for about.html
+
+commit bac51c45c2ac7bc8f70a18786ac6ff319f9b1fd5
+Author: Noe Hsu <noe13hsu@gmail.com>
+Date:   Wed Mar 10 01:26:47 2021 +1000
+
+    changed layout for main at 1024px or higher
+
+commit 4e8b1fd400eff0041398701e7b0b79eab156cbe6
+Author: Noe Hsu <noe13hsu@gmail.com>
+Date:   Tue Mar 9 13:12:19 2021 +1000
+
+    added about.html
+
+commit a6abedf894107702b11f6abd06af34e23d9abe4a
+Author: Noe Hsu <noe13hsu@gmail.com>
+Date:   Tue Mar 9 10:07:12 2021 +1000
+
+    replaced icons
+
+commit f42edc78620cbbf2c66e3387595a82287eb5bc31
+Author: Noe Hsu <noe13hsu@gmail.com>
+Date:   Mon Mar 8 21:40:47 2021 +1000
+
+    updated grid for width at 1024px and 1440ox to push content to the middle, added a vertical line below nav and aside
+
+commit 8f6010bfc35bcf718bd6451fc0608074d62d4c07
+Author: Noe Hsu <noe13hsu@gmail.com>
+Date:   Mon Mar 8 15:41:08 2021 +1000
+
+    deleted unnecessary images
+
+commit 4e725165a9f4a74526840221a6cd16db35cb5875
+Author: Noe Hsu <noe13hsu@gmail.com>
+Date:   Mon Mar 8 15:22:00 2021 +1000
+
+    added responsive design for 768px and 1024px viewport
+
+commit 007be4b02dac26e58167811e62375e80fc7fc365
+Author: Noe Hsu <noe13hsu@gmail.com>
+Date:   Mon Mar 8 02:48:36 2021 +1000
+
+    rearranged grid and moved .intro to main, direct children of body now displaying grid
+
+commit 7b622398ca8a5a55c48eb00475c499169c631342
+Author: Noe Hsu <noe13hsu@gmail.com>
+Date:   Sat Mar 6 23:40:09 2021 +1000
+
+    fixed a typo
+
+commit e3115b50a5d969a49b4478719d0143fe0d33ab60
+Author: Noe Hsu <noe13hsu@gmail.com>
+Date:   Sat Mar 6 23:25:04 2021 +1000
+
+    minor content update and removed old grid.css
+
+commit e3dcbc6e8d88f3f57ba1411a69899fd696b2d28f
+Author: Noe Hsu <noe13hsu@gmail.com>
+Date:   Sat Mar 6 22:59:15 2021 +1000
+
+    created blog and added styling in all HTMLs
+
+commit 1f05678f1c444147108d9cc629d1b0495e57f743
+Author: Noe Hsu <noe13hsu@gmail.com>
+Date:   Sat Mar 6 18:51:47 2021 +1000
+
+    redesigned grid and structure
+
+commit fb4d317abee6d3eaa814c3532021252180e820e7
+Author: Noe Hsu <noe13hsu@gmail.com>
+Date:   Sat Mar 6 02:38:43 2021 +1000
+
+    updated left margin for .intro
+
+commit a4a07392b5bbde58add052bb7defb0102ce7fe95
+Author: Noe Hsu <noe13hsu@gmail.com>
+Date:   Sat Mar 6 02:26:41 2021 +1000
+
+    updated form.html
+
+commit 8ab449faf122d9625ff0b27cf5deb46bd6b713a1
+Author: Noe Hsu <noe13hsu@gmail.com>
+Date:   Fri Mar 5 23:13:19 2021 +1000
+
+    added animation to top arrow
+
+commit e15e0bfe42df3e674d6fe14f39f982c21d25326a
+Author: Noe Hsu <noe13hsu@gmail.com>
+Date:   Fri Mar 5 23:09:38 2021 +1000
+
+    added back to top in portfolio.html
+
+commit 3e1b79792a7cdd2a4a43b2b90f566939231c04dd
+Author: Noe Hsu <noe13hsu@gmail.com>
+Date:   Fri Mar 5 22:17:13 2021 +1000
+
+    redesigned grid and created portfolio.html
+
+commit 798c57870b7c8b3a61a29c26af62f8a2256e5ce7
+Author: Noe Hsu <noe13hsu@gmail.com>
+Date:   Fri Mar 5 13:38:03 2021 +1000
+
+    added pages folder and moved all HTMLs in it
+
+commit 745a8eb1ed577675a6ca3f60e085908ed6271ab7
+Author: Noe Hsu <noe13hsu@gmail.com>
+Date:   Fri Mar 5 11:11:02 2021 +1000
+
+    added social links to index.html
+
+commit 3ded1bbed4d2579ab4b475a63fe3c3380ab71369
+Author: Noe Hsu <noe13hsu@gmail.com>
+Date:   Fri Mar 5 10:49:35 2021 +1000
+
+    added animation for icons and updated styles
+
+commit 9f1915f17490198ec545f12b7b5ad49067d6cff0
+Author: Noe Hsu <noe13hsu@gmail.com>
+Date:   Fri Mar 5 02:25:11 2021 +1000
+
+    created home page and responsive design for smart phones and tablets
+
+commit 63fab3936a7c889aad4d447411724796085d0513
+Author: Noe Hsu <noe13hsu@gmail.com>
+Date:   Wed Mar 3 22:58:05 2021 +1000
+
+    added description of the project to README
+
+commit 89fddc72d82c43144189781f633a2a92d76253ef
+Author: Noe Hsu <noe13hsu@gmail.com>
+Date:   Wed Mar 3 15:45:28 2021 +1000
+
+    added index.html
+
+commit 6059a8b66138a50ee5cb042bc93de91c2a432239
+Author: Noe Hsu <noe13hsu@gmail.com>
+Date:   Wed Mar 3 15:29:03 2021 +1000
+
+    added Hello in README
+
+commit 3dc9b42e7f796de467e4b17013747c0b94600d87
+Author: Noe Hsu <noe13hsu@gmail.com>
+Date:   Wed Mar 3 15:26:13 2021 +1000
+
+    first commit

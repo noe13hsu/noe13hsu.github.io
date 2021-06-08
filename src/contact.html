@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Portfolio N..</title>
+        <link rel="icon" type="image/png" sizes="32x32" href="images/Logo/favicon_navy/favicon-32x32.png">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" integrity="sha512-c42qTSw/wPZ3/5LBzD+Bw5f7bSF2oxou6wEb+I/lqeaKV5FDIfMvvRp772y4jcJLKuGUOpbJMdg/BTl50fJYAw==" crossorigin="anonymous"/>
+        <link rel="stylesheet" href="css/grid.css" integrity="sha384-VRf5Bx6F+k5JFqZ59pQxbPYcw7W01D8Dqa5qIX83t9JLvN7SNTEveERPL7Cd9O6K">
+        <link rel="stylesheet" href="css/style.css" >
+    </head>
+
+    <body>
+        <!-- header with logo -->
+        <header>
+            <div class="header-item">
+                <a href="index.html" title="Home"><img id="logo" src="images/Logo/favicon_navy/logo.png" alt="logo"></a>
+            </div>
+        </header>
+        
+        <!-- nav bar with links to other pages -->
+        <nav>
+            <div class="nav-item">
+                <a href="about.html" title="About"><img class="nav-img" id="about" src="images/Nav/About/info.png" alt="about-icon"></a>
+            </div>
+            <div class="nav-item">
+                <a href="portfolio.html" title="Portfolio"><img class="nav-img" src="images/Nav/Portfolio/briefcase.png" alt="portfolio-icon"></a>
+            </div>    
+            <div class="nav-item">    
+                <a href="blog.html" title="Blog"><img class="nav-img" src="images/Nav/Blog/title.png" alt="blog-icon"></a>
+            </div>
+            <div class="nav-item">    
+                <a href="contact.html" title="Contact"><img class="nav-img" id="contact" src="images/Nav/Contact/email.png" alt="contact-icon"></a>
+            </div>
+            <div class="vertical-line"></div>   
+        </nav>
+
+        <!-- main content with page title and contact form-->
+        <main>
+            <h1 class="text-align-center text-title">Contact.</h1>
+            <p class="text-align-center">Please fill out the form below if you would like to email me.</p>
+            <p class="text-align-center">Don't forget to connect with me on social media.</p>
+        
+            <form id="contact-form">
+                <fieldset class="form-component">
+                    <legend><span class="noe"><strong>N</strong></span>ame</legend>
+                    <div id="name-field-set">
+                        <input class="name-input" type="text" id="first-name" name="firstname">
+                        <input class="name-input" type="text" id="last-name" name="lastname">
+                        <label class="name-label" for="first-name">First Name</label>
+                        <label class="name-label" for="last-name">Last Name</label>
+                    </div>
+                </fieldset>
+
+                <div class="form-component" id="form-organisation">
+                    <label for="email"><span class="noe"><strong>O</strong></span>rganisation</label>
+                    <input class="long-input" type="text" id="organisation" name="organisation">
+                </div>
+
+                <div class="form-component">
+                    <label for="email"><span class="noe"><strong>E</strong></span>mail</label>
+                    <input class="long-input" type="text" id="email" name="email">
+                </div>
+
+                <div class="form-component">
+                    <label for="email"><strong>S</strong>ubject</label>
+                    <input class="long-input" type="text" id="subject" name="subject">
+                </div>
+
+                <div class="form-component">
+                    <label for="message"><strong>M</strong>essage</label>
+                    <textarea class="textarea-input" id="message" name="message"></textarea>
+                </div>
+                
+                <div class="form-button">
+                    <input id="send-button" type="submit" value="Send">
+                </div>
+                <br>
+                <br>  
+            </form>
+            
+        </main>
+        
+        <!-- side bar with links to social media -->
+        <aside>
+            <div class="aside-item">
+                <a href="https://www.facebook.com/noe.hsu" title="Facebook"><img class="aside-img" id="facebook" src="images/Aside/logo-facebook.png" alt="facebook-icon"></a>
+            </div>
+            <div class="aside-item">
+                <a href="https://www.linkedin.com/in/noe-hsu-7828a4208/" title="linkedin"><img class="aside-img" src="images/Aside/logo-linkedin.png" alt="linkedin-icon"></a>
+            </div>    
+            <div class="aside-item">    
+                <a href="https://github.com/noe13hsu" title="GitHub"><img class="aside-img" src="images/Aside/logo-github.png" alt="github-icon"></a>
+            </div>
+            <div class="aside-item">    
+                <a href="https://codepen.io/noe13hsu" title="CodePen"><img class="aside-img" id="codepen" src="images/Aside/logo-codepen.png" alt="codepen-icon"></a>
+            </div>
+            <div class="vertical-line"></div> 
+        </aside>
+
+        <!-- footer with copy right statement -->
+        <footer>
+            <div class="footer-item">
+                <p id="copy-right">&copy; All rights reserved.</p>
+            </div>    
+        </footer>
+    </body>
+</html>
