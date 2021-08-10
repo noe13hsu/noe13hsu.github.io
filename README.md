@@ -21,29 +21,28 @@ https://github.com/noe13hsu/T1A2---Portfolio
 
 * Site map:
   
-    ![Site Map](./src/docs/sitemap.png)
+    ![Site Map](docs/sitemap.png)
   
 * Screenshots:
-  
-    ![Laptop - Home](./src/docs/Screenshot/Laptop%20-%20Home.png)
+    ![Laptop - Home](docs/Screenshot/Laptop_Home.png)
 
-    ![Laptop - About](./src/docs/Screenshot/Laptop%20-%20About.png)
+    ![Laptop - About](docs/Screenshot/Laptop_About.png)
 
-    ![Laptop - Portfolio](./src/docs/Screenshot/Laptop%20-%20Portfolio.png)
+    ![Laptop - Portfolio](docs/Screenshot/Laptop_Portfolio.png)
 
-    ![Laptop - Blog](./src/docs/Screenshot/Laptop%20-%20Blog.png)
+    ![Laptop - Blog](docs/Screenshot/Laptop_Blog.png)
 
-    ![Laptop - Contact](./src/docs/Screenshot/Laptop%20-%20Contact.png)
+    ![Laptop - Contact](docs/Screenshot/Laptop_Contact.png)
 
-    ![Mobile - Home](./src/docs/Screenshot/Mobile%20-%20Home.png)
+    ![Mobile - Home](docs/Screenshot/Mobile_Home.png)
 
-    ![Mobile - About](./src/docs/Screenshot/Mobile%20-%20About.png)
+    ![Mobile - About](docs/Screenshot/Mobile_About.png)
 
-    ![Mobile - Portfolio](./src/docs/Screenshot/Mobile%20-%20Portfolio.png)
+    ![Mobile - Portfolio](docs/Screenshot/Mobile_Portfolio.png)
 
-    ![Mobile - Blog](./src/docs/Screenshot/Mobile%20-%20Blog.png)
+    ![Mobile - Blog](docs/Screenshot/Mobile_Blog.png)
 
-    ![Mobile - Contact](./src/docs/Screenshot/Mobile%20-%20Contact.png)
+    ![Mobile - Contact](docs/Screenshot/Mobile_Contact.png)
 
 
 
