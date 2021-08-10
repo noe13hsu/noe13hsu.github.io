@@ -25,7 +25,7 @@ https://github.com/noe13hsu/T1A2---Portfolio
   
 * Screenshots:
   
-    ![Laptop - Home](./src/docs/Screenshot/Laptop%20-%20Home.png)
+    ![Laptop - Home](./src/docs/Screenshot/Laptop-Home.png)
 
     ![Laptop - About](./src/docs/Screenshot/Laptop%20-%20About.png)
 
